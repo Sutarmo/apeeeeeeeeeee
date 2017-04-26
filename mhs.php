@@ -5,5 +5,8 @@ class mhs{
 	public tambah(){
 		return true;
 	}
+	public ubahMhs(){
+		return true;
+	}
 }
 ?>
